@@ -99,29 +99,49 @@ Clean all the old thermal paste with isopropyl alcohol. Reapply a very small amo
 <p>
 Click the cover back on and tighten scrws until snug. Install the new external battery by simply sliding it into the slot
 </p>
-<img src=/>
+<img src=https://i.imgur.com/0PnXOOm.jpg/>
 
 <h3>Step 8: Check the Laptop will Boot to BIOS</h3>
 <p>
 Before installing an operating system, we should check if the PC will boot to the BIOS and there are no catastrophic hardware failures. On start up I've recieved a message the third party party I purchased is not compatible. To check which battery is the problem, I removed the larger external battery and tried starting the computer again. There was no error messages, so the external battery seems to be the problem. I'll have to remove the new external battery and return it for now. Although the internal battery is small, I will be able to use the laptop, just with a reduced battery life.
 </p>
-<img src=/>
+<img src=https://i.imgur.com/DHW6RcE.jpg/>
 
 <h3>Step 9: Run Hardware Diagnostics in the BIOS</h3>
 <p>
-Press the power button, when the Lenovo screen pops up press enter -> F10 to Diagnose Hardware -> Run All -> Deselect Extended -> All my tests passed
+In the meantime, let's run some diagnostics to make sure the hardware we purchased and the old hardware is running without issues. Press the power button, when the Lenovo screen pops up press enter -> F10 to Diagnose Hardware 
 </p>
-<img src=/>
-
-<h3>Step 10: Install Windows 10</h3>
+<img src=https://i.imgur.com/WI4xBZz.jpg/>
 <p>
-Let's try installing Windows 10. Insert the SD card into the T480's reader slot. The PC should reach a 
+-> Run All
 </p>
-<img src=/>
-
-
-<h3>Step 1: Windows 10 Installation</h3>
+<img src=https://i.imgur.com/lxqj4W2.jpg/>
 <p>
-We need a portable storage device to install our operating systems. I had a 32gb SD card laying around, so I decided to use that. We will start with Windows 10. On my other laptop that has an SD card reader, I downloaded the Windows Media Creation Tool. Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run
+-> Deselect Extended
+</p>
+<img src=https://i.imgur.com/V4GWpHL.jpg/>
+<p>
+-> All tests passed
+</p>
+<img src=https://i.imgur.com/ZUBv94G.jpg/>
+
+<h3>Step 10: Windows 10 Installation</h3>
+<p>
+  
+Let's try installing Windows 10. We will need a portable storage device to install our operating systems. You will need a USB drive with at least 8gb of storage. We will start with Windows 10. Insert the USB drive into a different PC and download the [Windows Media Creation Tool.](https://www.microsoft.com/en-us/software-download/windows10)
+<p>
+<img src=https://i.imgur.com/U3R7AWu.png/>
+</p>
+<p>
+Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> Insert the USB drive into the T480. ->
+</p>
+
+
+
+
+
+<h3>Step 1: </h3>
+<p>
+
 </p>
 <img src=/>
