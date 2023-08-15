@@ -136,11 +136,19 @@ Let's try installing Windows 10. We will need a portable storage device to insta
 Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> Insert the USB drive into the T480. ->
 </p>
 
+<h3>Step 11: </h3>
+<p>
 
+</p>
+<img src=/>
 
+<h3>Step 12: </h3>
+<p>
 
+</p>
+<img src=/>
 
-<h3>Step 1: </h3>
+<h3>Step 13: </h3>
 <p>
 
 </p>
