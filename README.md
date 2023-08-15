@@ -51,51 +51,57 @@ This laptop came to me pretty dirty, first thing I'd like to do is clean it thor
 </p>
 <img src=/>
 
-<h3>Step 2: Check the Laptop will Boot to BIOS</h3>
-<p>
-First I plugged in the new power adapter, then pressed the power button to test out whether or not the laptop booted to the BIOS.
-</p>
-<img src=/>
-
-<h3>Step 3: Remove the Back Cover</h3>
+<h3>Step 2: Remove the Back Cover</h3>
 <p>
 I loosened each screw, then pryed the back cover off.
 </p>
 <img src=/>
 
-<h3>Step 4: Install the RAM</h3>
+<h3>Step 3: Install the RAM</h3>
 <p>
 When installing SODIMM, be sure to line up the indentation, push in slightly, then push down until the RAM locks into place.
 </p>
 <img src=/>
 
-<h3>Step 5: Remove and Install the Internal Battery</h3>
+<h3>Step 4: Remove and Install the Internal Battery</h3>
 <p>
 There are two small screws holding the internal battery into place. After removing them, unplug the small connector near the CPU fan. The installation is the reverse process. I used a pair of forceps to push in the connector.
 </p>
 <img src=/>
 
-<h3>Step 6: Install the M.2 NVME SSD</h3>
+<h3>Step 5: Install the M.2 NVME SSD</h3>
 <p>
-Remove
+Remove the SSD enclosure by pulling up, it will pop out. Remove the two screws holding the metal piece covering the SSD slot, then remove the screw used for securing the SSD. Installing the SSD is similar to the RAM, push in slightly, then use the provided screw to very gently tighten the SSD to the enclosure, be cautious not to overtighten. Reinstall enclosure.
 </p>
 <img src=/>
 
-<h3>Step 7: Remove and Install the CPU Fan</h3>
+<h3>Step 6: Remove and Install the CPU Fan</h3>
 <p>
-There are 4 screws holding down the CPU cooler. Remove these 4 screws and unlug the fan Clean all the old thermal paste with isopropyl alcohol. 
+There are 4 screws holding down the CPU cooler. Remove these 4 screws and unplug the fan. Clean all the old thermal paste with isopropyl alcohol. Reapply a very small amount of thermal paste to the CPU. Make sure when tightening the 4 CPU screws that you tighten evenely, preferably in a criss-cross pattern, this ensures the cooler exerts pressure evenly. Plug The fan able back into the motherboard
 </p>
 <img src=/>
 
-<h3>Step 7: </h3>
+<h3>Step 7: Reinstall Bottom Cover</h3>
 <p>
-
+Click the cover back on and tighten scrws until snug. Install the new external battery by simply sliding it into the slot
 </p>
 <img src=/>
 
-<h3>Step 7: </h3>
+<h3>Step 8: Check the Laptop will Boot to BIOS</h3>
 <p>
+Before installing an operating system, we should check if the PC will boot to the BIOS and there are no catastrophic hardware failures. On start up I've recieved a message the third party party I purchased is not compatible. To check which battery is the problem, I removed the larger external battery and tried starting the computer again. There was no error messages, so the external battery seems to be the problem. I'll have to remove the new external battery and return it for now. Although the internal battery is small, I will be able to use the laptop, just with a reduced battery life.
+</p>
+<img src=/>
 
+<h3>Step 9: Run Hardware Diagnostics in the BIOS</h3>
+<p>
+Press the power button, when the Lenovo screen pops up press enter -> F10 to Diagnose Hardware -> Run All -> Deselect Extended -> All my tests passed
+</p>
+<img src=/>
+
+<h3>Step 10: Install Windows 10</h3>
+<p>
+Let's try installing Windows 10. Insert the SD card into the T480's reader slot. The PC should reach a 
 </p>
 <img src=/>
 
