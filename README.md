@@ -85,13 +85,15 @@ Installing the SSD is similar to the RAM, push in slightly, then use the provide
 </p>
 <img src=https://i.imgur.com/a3vaWvO.jpg/>
 
-
-
 <h3>Step 6: Remove and Install the CPU Fan</h3>
 <p>
-There are 4 screws holding down the CPU cooler. Remove these 4 screws and unplug the fan. Clean all the old thermal paste with isopropyl alcohol. Reapply a very small amount of thermal paste to the CPU. Make sure when tightening the 4 CPU screws that you tighten evenely, preferably in a criss-cross pattern, this ensures the cooler exerts pressure evenly. Plug The fan able back into the motherboard
+There are 4 screws holding down the CPU cooler. Remove these 4 screws and unplug the fan. 
 </p>
-<img src=/>
+<img src=https://i.imgur.com/ImVEfpC.jpg/>
+<p>
+Clean all the old thermal paste with isopropyl alcohol. Reapply a very small amount of thermal paste to the CPU. Make sure when tightening the 4 CPU screws that you tighten evenely, preferably in a criss-cross pattern, this ensures the cooler exerts pressure evenly. Plug The fan able back into the motherboard
+</p>
+<img src=https://i.imgur.com/asUhN3j.jpg/>
 
 <h3>Step 7: Reinstall Bottom Cover</h3>
 <p>
