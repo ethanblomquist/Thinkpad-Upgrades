@@ -41,39 +41,51 @@ As you can see below there isn't much included in this used T480 I found on ebay
   - iFixit Electronics Toolkit
   - Total Cost: $197.79
 
-<img src=https://i.imgur.com/fEyHvg2.png/>
-
-<h2>Part 1: Hardware Installation</h2>
+<img src=https://i.imgur.com/iBZW1kK.jpg/>
 
 <h3>Step 1:Cleaning the Laptop</h3>
 <p>
-This laptop came to me pretty dirty, first thing I'd like to do is clean it thoroughly. I removed the stickers and sticker residue, then cleaned and polished all the surfaces, as well as anything stuck in the vents.
+This laptop came to me pretty dirty, first thing I'd like to do is clean it up.
 </p>
-<img src=/>
+<img src=https://i.imgur.com/ONIocXC.jpg/>
+<p>
+I removed the stickers and cleaned all the surfaces thoroughly.
+</p>
+<img src=https://i.imgur.com/ENZsQRT.jpg/>
 
 <h3>Step 2: Remove the Back Cover</h3>
 <p>
-I loosened each screw, then pryed the back cover off.
+Next we need to loosen each of the 6 screws holding the back cover on.
 </p>
-<img src=/>
+<img src=https://i.imgur.com/juzStXS.jpg/>
+<p>
+Then pry the back cover off.
+</p>
+<img src=https://i.imgur.com/3rrZBP7.jpg/>
 
 <h3>Step 3: Install the RAM</h3>
 <p>
 When installing SODIMM, be sure to line up the indentation, push in slightly, then push down until the RAM locks into place.
 </p>
-<img src=/>
+<img src=https://i.imgur.com/r2Kf06h.jpg/>
 
 <h3>Step 4: Remove and Install the Internal Battery</h3>
 <p>
 There are two small screws holding the internal battery into place. After removing them, unplug the small connector near the CPU fan. The installation is the reverse process. I used a pair of forceps to push in the connector.
 </p>
-<img src=/>
+<img src=https://i.imgur.com/FBcAGdp.jpg/>
 
 <h3>Step 5: Install the M.2 NVME SSD</h3>
 <p>
-Remove the SSD enclosure by pulling up, it will pop out. Remove the two screws holding the metal piece covering the SSD slot, then remove the screw used for securing the SSD. Installing the SSD is similar to the RAM, push in slightly, then use the provided screw to very gently tighten the SSD to the enclosure, be cautious not to overtighten. Reinstall enclosure.
+Remove the SSD enclosure by pulling up, it will pop out. Remove the two screws holding the metal piece covering the SSD slot, then remove the screw used for securing the SSD. 
 </p>
-<img src=/>
+<img src=https://i.imgur.com/h1LsNn8.jpg/>
+<p>
+Installing the SSD is similar to the RAM, push in slightly, then use the provided screw to very gently tighten the SSD to the enclosure, be cautious not to overtighten. Reinstall enclosure.
+</p>
+<img src=https://i.imgur.com/a3vaWvO.jpg/>
+
+
 
 <h3>Step 6: Remove and Install the CPU Fan</h3>
 <p>
