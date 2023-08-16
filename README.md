@@ -101,7 +101,7 @@ Click the cover back on and tighten scrws until snug. Install the new external b
 </p>
 <img src=https://i.imgur.com/0PnXOOm.jpg/>
 
-<h3>Step 9: Boot to BIOS</h3>
+<h3>Step 8: Boot to BIOS</h3>
 <p>
 Before installing an operating system, we should check if the PC will boot to the BIOS and there are no catastrophic hardware failures.
 </p>
@@ -122,6 +122,13 @@ Let's run some diagnostics to make sure the hardware we purchased and the old ha
 -> All tests passed
 </p>
 <img src=https://i.imgur.com/ZUBv94G.jpg/>
+
+<h3>Step 9: Update BIOS</h3>
+<p>
+
+The T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced. To update the BIOS, we will need a USB drive. First download [BIOS Update (Bootable CD)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t480-type-20l5-20l6/downloads/ds502355) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher
+</p>
+<img src=/>
 
 <h3>Step 10: Windows 10 Installation</h3>
 <p>
