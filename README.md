@@ -123,14 +123,7 @@ Let's run some diagnostics to make sure the hardware we purchased and the old ha
 </p>
 <img src=https://i.imgur.com/ZUBv94G.jpg/>
 
-<h3>Step 9: Create a Linux Bootable USB</h3>
-<p>
-  
-To prepare for the OS installation, we will need two USB drives. On a seperate PC, download [Ubuntu Linux](https://ubuntu.com/download/desktop) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher -> Flash from file -> Select the Ubuntu iso file -> Select desired USB drive -> Eject drive when finished
-</p>
-<img src=https://i.imgur.com/KOB5zwH.png/>
-
-<h3>Step 10: Install Window</h3>
+<h3>Step 9: Install Windows</h3>
 <p>
   
 Insert the USB drive into a different PC and download the [Windows Media Creation Tool.](https://www.microsoft.com/en-us/software-download/windows10)
@@ -138,26 +131,21 @@ Insert the USB drive into a different PC and download the [Windows Media Creatio
 <img src=https://i.imgur.com/U3R7AWu.png/>
 </p>
 <p>
-Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> When the tool finishes, eject the drive -> Insert the USB drive into the T480 and power on -> The computer shoula automatically boot to the Windows 10 installer -> Install now -> Enter product key or select "I don't have a product key" if yout T480 came with a Windows liscence -> Select which edition of Windows you want to install -> Custom -> Select our drive -> New -> We can now designate how much of our hard drive we want to alloacate to windows. I have a 1TB SSD, I'm going to split it up in half between Linux and Windows, allocating 450,000MB to Windows. -> This leaves us with 492.1GB for our Linux OS -> Select a region and a network to connect to -> configure Windows settings to your preferences -> Once Windows has launched, make sure to navigate to the update section and find the "optional updates". Within that is a firmware update, make sure to select ans install it. This is because the T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced.
+Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> When the tool finishes, eject the drive -> Insert the USB drive into the T480 and power on -> The computer should automatically boot to the Windows 10 installer -> Install now -> Enter product key or select "I don't have a product key" if yout T480 came with a Windows liscence -> Select which edition of Windows you want to install -> Custom -> Select our drive -> New -> We can now designate how much of our hard drive we want to alloacate to windows. I have a 1TB SSD, I'm going to split it up in half between Linux and Windows, allocating 500,000MB to Windows. -> This leaves us with 492.1GB for our Linux OS -> Select a region and a network to connect to -> configure Windows settings to your preferences -> Once Windows has launched, make sure to navigate to the update section and find the "optional updates". Within that is a firmware update, make sure to select and install it. This is because the T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced.
 </p>
-
-<h3>Step 11: Check for BIOS</h3>
-<p>
-The T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced. Looks like evrything is good so far.
-</p>
-<img src=https://i.imgur.com/MiH00Rg.jpeg/>
-<p>
-<h3>Step 11: Install Linux</h3>
+<img src=https://i.imgur.com/ppQHDJt.png/>
 <p>
 
-</p>
-<img src=/>
-
-<h3>Step 12: </h3>
+<h3>Step 10: Install Linux</h3>
 <p>
-
+  
+On a seperate PC, download [Ubuntu Linux](https://ubuntu.com/download/desktop) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher -> Flash from file -> Select the Ubuntu iso file -> Select desired USB drive -> Eject drive when finished -> 
 </p>
-<img src=/>
+<img src=https://i.imgur.com/KOB5zwH.png/>
+<p>
+Insert the USB drive into the T480 and power on -> Press the Enter key when the Lenovo icon appears to enter the BIOS menu -> F12 -> Use the arrow keys to select the USB drive -> Enter -> Install Ubuntu -> Choose installation options you prefer -> Install Ubuntu alongside Windows Boot Manager -> Ubuntu will automatically install alongside Windows
+</p>
+<img src=https://i.imgur.com/xwOAEEm.jpg/>
 
 <h3>Step 13: </h3>
 <p>
