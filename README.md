@@ -143,12 +143,15 @@ On a seperate PC, download [Ubuntu Linux](https://ubuntu.com/download/desktop) -
 </p>
 <img src=https://i.imgur.com/KOB5zwH.png/>
 <p>
-Insert the USB drive into the T480 and power on -> Press the Enter key when the Lenovo icon appears to enter the BIOS menu -> F12 -> Use the arrow keys to select the USB drive -> Enter -> Install Ubuntu -> Choose installation options you prefer -> Install Ubuntu alongside Windows Boot Manager -> Ubuntu will automatically install alongside Windows
+Insert the USB drive into the T480 and power on -> Press the Enter key when the Lenovo icon appears to enter the BIOS menu -> F12 -> Use the arrow keys to select the USB drive -> Enter -> Install Ubuntu -> Choose installation options you prefer -> Install Ubuntu alongside Windows Boot Manager -> Ubuntu will automatically install alongside Windows -> 
 </p>
 <img src=https://i.imgur.com/xwOAEEm.jpg/>
-
-<h3>Step 13: </h3>
 <p>
-
+Aftet starting the computer, the screen below should appear. You can now use the arrow keys and choose which OS to boot to.
 </p>
-<img src=/>
+<img src=https://i.imgur.com/EIFVFAM.jpg/>
+
+<h2>Project Compplete!</h2>
+<p>
+We have now successfully gone from a computer missing components to a clean useable laptop with a long battery life dual-booting WIndows and Linux. I hope this tutorial was helpful, if you have any questions or suggestions on how I can improve this guide, please feel free to contact me at: efblomquist@gmail.com
+</p>
