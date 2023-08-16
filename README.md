@@ -6,7 +6,7 @@ I started this project because I needed an affordable laptop for study, work, an
 
 <h2>Goals for this Project</h2>
 <p>
-Ultimately I want a solid laptop with good battery life, enough performace for smooth web browsing and office productivity(Word, Excel etc.) I also need the machine to perform IT related tasks such as local virtualization, scripting/programming and other basic Windows/Linux functions such as BASH, Powershell, RDP etc.
+Ultimately I want a solid laptop with good battery life, enough performance for smooth web browsing and office productivity(Word, Excel etc.) I also need the machine to perform IT related tasks such as local virtualization, scripting/programming and other basic Windows/Linux functions such as BASH, Powershell, RDP etc.
 </p>
 <h3>Additionally we will need to:</h3>
 
@@ -32,7 +32,7 @@ As you can see below there isn't much included in this used T480 I found on ebay
 
 <h2>Components Purchased for the Upgrade </h2>
 
-  - 24wh Internal Battery Relacement
+  - 24wh Internal Battery Replacement
   - 72wh Swappable External Battery Replacement
   - 16GB(2x8gb) DDR4 2400MHz RAM
   - 1TB NVME M.2 SSD
@@ -91,13 +91,13 @@ There are 4 screws holding down the CPU cooler. Remove these 4 screws and unplug
 </p>
 <img src=https://i.imgur.com/ImVEfpC.jpg/>
 <p>
-Clean all the old thermal paste with isopropyl alcohol. Reapply a very small amount of thermal paste to the CPU. Make sure when tightening the 4 CPU screws that you tighten evenely, preferably in a criss-cross pattern, this ensures the cooler exerts pressure evenly. Plug The fan able back into the motherboard
+Clean all the old thermal paste with isopropyl alcohol. Reapply a very small amount of thermal paste to the CPU. Make sure when tightening the 4 CPU screws that you tighten evenly, preferably in a criss-cross pattern, this ensures the cooler exerts pressure evenly. Plug The fan able back into the motherboard
 </p>
 <img src=https://i.imgur.com/asUhN3j.jpg/>
 
 <h3>Step 7: Reinstall Bottom Cover</h3>
 <p>
-Click the cover back on and tighten scrws until snug. Install the new external battery by simply sliding it into the slot
+Click the cover back on and tighten screws until snug. Install the new external battery by simply sliding it into the slot
 </p>
 <img src=https://i.imgur.com/0PnXOOm.jpg/>
 
@@ -131,7 +131,7 @@ Insert the USB drive into a different PC and download the [Windows Media Creatio
 <img src=https://i.imgur.com/U3R7AWu.png/>
 </p>
 <p>
-Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> When the tool finishes, eject the drive -> Insert the USB drive into the T480 and power on -> The computer should automatically boot to the Windows 10 installer -> Install now -> Enter product key or select "I don't have a product key" if yout T480 came with a Windows liscence -> Select which edition of Windows you want to install -> Custom -> Select our drive -> New -> We can now designate how much of our hard drive we want to alloacate to windows. I have a 1TB SSD, I'm going to split it up in half between Linux and Windows, allocating 500,000MB to Windows. -> This leaves us with 492.1GB for our Linux OS -> Select a region and a network to connect to -> configure Windows settings to your preferences -> Once Windows has launched, make sure to navigate to the update section and find the "optional updates". Within that is a firmware update, make sure to select and install it. This is because the T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced.
+Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> When the tool finishes, eject the drive -> Insert the USB drive into the T480 and power on -> The computer should automatically boot to the Windows 10 installer -> Install now -> Enter product key or select "I don't have a product key" if yout T480 came with a Windows license -> Select which edition of Windows you want to install -> Custom -> Select our drive -> New -> We can now designate how much of our hard drive we want to allocate to windows. I have a 1TB SSD, I'm going to split it up in half between Linux and Windows, allocating 500,000MB to Windows. -> This leaves us with 492.1GB for our Linux OS -> Select a region and a network to connect to -> configure Windows settings to your preferences -> Once Windows has launched, make sure to navigate to the update section and find the "optional updates". Within that is a firmware update, make sure to select and install it. This is because the T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced.
 </p>
 <img src=https://i.imgur.com/ppQHDJt.png/>
 <p>
@@ -139,7 +139,7 @@ Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows
 <h3>Step 10: Install Linux</h3>
 <p>
   
-On a seperate PC, download [Ubuntu Linux](https://ubuntu.com/download/desktop) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher -> Flash from file -> Select the Ubuntu iso file -> Select desired USB drive -> Eject drive when finished -> 
+On a separate PC, download [Ubuntu Linux](https://ubuntu.com/download/desktop) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher -> Flash from file -> Select the Ubuntu iso file -> Select desired USB drive -> Eject drive when finished -> 
 </p>
 <img src=https://i.imgur.com/KOB5zwH.png/>
 <p>
@@ -147,11 +147,11 @@ Insert the USB drive into the T480 and power on -> Press the Enter key when the 
 </p>
 <img src=https://i.imgur.com/xwOAEEm.jpg/>
 <p>
-Aftet starting the computer, the screen below should appear. You can now use the arrow keys and choose which OS to boot to.
+After starting the computer, the screen below should appear. You can now use the arrow keys and choose which OS to boot to.
 </p>
 <img src=https://i.imgur.com/EIFVFAM.jpg/>
 
-<h2>Project Compplete!</h2>
+<h2>Project Complete!</h2>
 <p>
-We have now successfully gone from a computer missing components to a clean useable laptop with a long battery. We also were able to dual-boot both WIndows and Linux. I hope this tutorial was helpful, if you have any questions or suggestions on how I can improve this guide, please feel free to contact me at: efblomquist@gmail.com
+We have now successfully gone from a computer missing components to a clean usable laptop with a long battery. We also were able to dual-boot both WIndows and Linux. I hope this tutorial was helpful, if you have any questions or suggestions on how I can improve this guide, please feel free to contact me at: efblomquist@gmail.com
 </p>
