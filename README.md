@@ -126,22 +126,19 @@ Let's run some diagnostics to make sure the hardware we purchased and the old ha
 <h3>Step 9: Create a Linux Bootable USB</h3>
 <p>
   
-To prepare for the OS installation, we will need at least one USB drive. First download [Ubuntu Linux](https://ubuntu.com/download/desktop) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher -> Flash from file -> Select the Select desired USB drive -> Eject drive -> Insert into the T480 -> Press F12 while computer is booting to enter the boot menu -> Select the USB drive with the arrow keys, press enter ->
+To prepare for the OS installation, we will need two USB drives. On a seperate PC, download [Ubuntu Linux](https://ubuntu.com/download/desktop) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher -> Flash from file -> Select the Ubuntu iso file -> Select desired USB drive -> Eject drive when finished
 </p>
-<img src=/>
-
-</p>
-<img src=/>
+<img src=https://i.imgur.com/KOB5zwH.png/>
 
 <h3>Step 11: Install Window</h3>
 <p>
   
-Let's try installing Windows 10. We will need a portable storage device to install our operating systems. You will need a USB drive with at least 8gb of storage. Insert the USB drive into a different PC and download the [Windows Media Creation Tool.](https://www.microsoft.com/en-us/software-download/windows10)
+Insert the USB drive into a different PC and download the [Windows Media Creation Tool.](https://www.microsoft.com/en-us/software-download/windows10)
 <p>
 <img src=https://i.imgur.com/U3R7AWu.png/>
 </p>
 <p>
-Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> When the tool finishes, eject the drive -> Insert the USB drive into the T480 and power on -> The computer shoula automatically boot to the Windows 10 installer -> Install now -> Enter product key or select "I don't have a product key" if yout T480 came with a Windows liscence -> 
+Run the program -> Accept -> Create installation media -> Next -> 64-bit Windows 10 -> USB Flash Drive -> Select the drive for the removable storage (D:) -> Next -> The program may take a significant amount of time to run. -> When the tool finishes, eject the drive -> Insert the USB drive into the T480 and power on -> The computer shoula automatically boot to the Windows 10 installer -> Install now -> Enter product key or select "I don't have a product key" if yout T480 came with a Windows liscence -> Select which edition of Windows you want to install -> Custom -> Select our drive -> New -> We can now designate how much of our hard drive we want to alloacate to windows. I have a 1TB SSD, I'm going to split it up in half between Linux and Windows, allocating 450,000MB to Windows. -> This leaves us with 492.1GB for our Linux OS -> Select a region and a wireless network
 </p>
 
 
