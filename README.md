@@ -125,8 +125,12 @@ Let's run some diagnostics to make sure the hardware we purchased and the old ha
 
 <h3>Step 9: Update BIOS</h3>
 <p>
+The T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced. 
+</p>
+<img src=https://i.imgur.com/MiH00Rg.jpeg/>
+<p>
 
-The T480 had an issue in earlier BIOS versions in which the USB-C charging connection would sometimes burn out. Since this connection is soldered to the motherboard, if it did break the entire motherboard would have to be replaced. To update the BIOS, we will need a USB drive. First download [BIOS Update (Bootable CD)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t480-type-20l5-20l6/downloads/ds502355) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher
+To update the BIOS, we will need a USB drive. First download [BIOS Update (Bootable CD)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t480-type-20l5-20l6/downloads/ds502355) -> Download [balenaEtcher](https://etcher.balena.io/#download-etcher) -> Open balenaEtcher -> Flash from file -> Select desired USB drive -> Eject drive -> Insert into the T480 -> Press F12 while computer is booting to enter the boot menu -> Select the USB drive with the arrow keys, press enter ->
 </p>
 <img src=/>
 
