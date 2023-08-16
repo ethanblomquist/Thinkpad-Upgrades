@@ -101,15 +101,13 @@ Click the cover back on and tighten scrws until snug. Install the new external b
 </p>
 <img src=https://i.imgur.com/0PnXOOm.jpg/>
 
-<h3>Step 8: Check the Laptop will Boot to BIOS</h3>
+<h3>Step 9: Boot to BIOS</h3>
 <p>
-Before installing an operating system, we should check if the PC will boot to the BIOS and there are no catastrophic hardware failures. On start up I've recieved a message the third party party I purchased is not compatible. To check which battery is the problem, I removed the larger external battery and tried starting the computer again. There was no error messages, so the external battery seems to be the problem. I'll have to remove the new external battery and return it for now. Although the internal battery is small, I will be able to use the laptop, just with a reduced battery life.
+Before installing an operating system, we should check if the PC will boot to the BIOS and there are no catastrophic hardware failures.
 </p>
-<img src=https://i.imgur.com/DHW6RcE.jpg/>
-
-<h3>Step 9: Run Hardware Diagnostics in the BIOS</h3>
+<img src=https://i.imgur.com/cN6hJKJ.jpeg/>
 <p>
-In the meantime, let's run some diagnostics to make sure the hardware we purchased and the old hardware is running without issues. Press the power button, when the Lenovo screen pops up press enter -> F10 to Diagnose Hardware 
+Let's run some diagnostics to make sure the hardware we purchased and the old hardware is running without issues. Press the power button, when the Lenovo screen pops up press enter -> F10 to Diagnose Hardware 
 </p>
 <img src=https://i.imgur.com/WI4xBZz.jpg/>
 <p>
