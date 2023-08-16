@@ -153,5 +153,5 @@ Aftet starting the computer, the screen below should appear. You can now use the
 
 <h2>Project Compplete!</h2>
 <p>
-We have now successfully gone from a computer missing components to a clean useable laptop with a long battery life dual-booting WIndows and Linux. I hope this tutorial was helpful, if you have any questions or suggestions on how I can improve this guide, please feel free to contact me at: efblomquist@gmail.com
+We have now successfully gone from a computer missing components to a clean useable laptop with a long battery. We also were able to dual-boot both WIndows and Linux. I hope this tutorial was helpful, if you have any questions or suggestions on how I can improve this guide, please feel free to contact me at: efblomquist@gmail.com
 </p>
